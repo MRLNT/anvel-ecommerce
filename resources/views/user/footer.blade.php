@@ -1,6 +1,7 @@
+
 <!-- Footer -->
-<footer class="page-footer font-small unique-color-dark text-white" style="background-color: #007bff;">
-    <div class="container">
+<footer class="page-footer font-small unique-color-dark text-white" style="background-color: #007bff; width: 100%;">
+    <div class="container-fluid">
       <div class="row py-4 d-flex align-items-center">
         <div class="col-md-6 col-lg-5 text-center text-md-left mb-4 mb-md-0">
           <h6 class="mb-0 text-white">Get connected with us on social networks!</h6>
@@ -15,7 +16,7 @@
       </div>
     </div>
 
-
+    
     <!-- Footer Links -->
     <div class="container text-center text-md-left mt-5">
       <div class="row mt-3">

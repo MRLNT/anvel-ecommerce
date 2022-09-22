@@ -4,7 +4,7 @@
 
     
     @include('user.navbar')
-    
+    <br><br><br><br>
 
 
 
@@ -33,11 +33,12 @@
                 </tr>
                 
             @endforeach  
-        </table>
+          </table>
         <button class="btn btn-success">Confirm Order</button>
 
 
       </form>
+    
     </div>
 
 

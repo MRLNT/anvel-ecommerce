@@ -1,11 +1,7 @@
 @extends('user.base')
 
   <body>
-
-    
     @include('user.navbar')
-    
-    
     
 
     @include('user.product')

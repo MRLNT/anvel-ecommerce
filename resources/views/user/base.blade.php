@@ -14,13 +14,13 @@
           }
         </style>
         <!-- Anvel Bootstrap core CSS -->
-        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet">
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
         <link rel="stylesheet" type="text/css" href="core/css/bootstrap.min.css">
         <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css">
         <link rel="stylesheet" type="text/css" href="core/css/bootstrap.css">
         <link rel="stylesheet" type="text/css" href="core/css/style.css">
         
-        <link rel="shortcut icon" type="image/jpg" href="core/img/anvel2.png"/>
+        <link rel="shortcut icon" type="image/png" href="core/img/anvel.png"/>
 
         
     
@@ -36,7 +36,7 @@
     
       </head>
       <!-- ***** Preloader Start ***** -->
-    <div id="preloader">
+    <div id="preloader">  
         <div class="jumper">
             <div></div>
             <div></div>
@@ -52,13 +52,15 @@
     
     
     <!-- Anvel JavaScript -->
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
     <script src="core/jquery/jquery-3.4.1.min.js"></script>
     <script src="core/js/bootstrap.js"></script>
-    <script src="core/js/about/bootstrap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+    
+    
+<!--     <script src="core/js/about/bootstrap.min.js"></script>
     <script src="core/jquery/about/jquery.viewportchecker.js"></script>
-    <script src="core/js/about/bundle.min.js"></script>
+    <script src="core/js/about/bundle.min.js"></script> -->
 
     <!-- Bootstrap core JavaScript 
     <script src="vendor/jquery/jquery.min.js"></script>
